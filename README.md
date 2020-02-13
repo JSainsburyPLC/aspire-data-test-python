@@ -82,6 +82,7 @@ python ./input_data_generator/main_data_generator.py
 This should produce customers, products and transaction data under `./input_data/starter`
 
 
+
 #### Getting started
 
 The skeleton of a possible solution is provided in `./solution/solution_start.py`
