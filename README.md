@@ -7,6 +7,10 @@ Go to https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-21
 and under the section "Java SE Development Kit 8u191" (the final digits may vary at the time you're reading this)
 click the `Accept License Agreement` radio button and download the version appropriate to your operating system.
 
+#### GCC (Linux/Mac) only
+
+`scipy` requires compiler tools to install.  Use your package manager (e.g. `brew` or `apt`) to install the `gcc` package if you haven't already.
+
 #### Python 3.6.* or later.
 
 See installation instructions at: https://www.python.org/downloads/
